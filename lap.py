@@ -1,1 +1,1 @@
-#learning git
+print ("this is my secondd commit")
